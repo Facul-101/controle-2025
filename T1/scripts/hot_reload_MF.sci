@@ -2,7 +2,7 @@
 exec("T1//scripts//utils.sci");
 
 mprintf("Controllers optimized for step changes\n")
-hot_load("T1//simulacao-MF.zcos")
+hot_load("T1//simulacao-MF.xcos")
 
-mprintf("Controllers optimized for step changes on the other end\n")
-hot_load("T1//simulacao-MF-inverted.zcos")
+mprintf("Controllers inverted\n")
+hot_load("T1//simulacao-MF-inverted.xcos")
