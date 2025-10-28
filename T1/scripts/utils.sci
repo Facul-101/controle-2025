@@ -51,7 +51,7 @@ function show_parameters(time, sp, cv)
     [iae, ise, itae] = calc_parameters(time, sp, cv);
 
     mprintf("IAE:  %f\n", iae);
-    mprintf("ISE:  %f\n", iae);
+    mprintf("ISE:  %f\n", ise);
     mprintf("ITAE: %f\n", itae);
 endfunction
 

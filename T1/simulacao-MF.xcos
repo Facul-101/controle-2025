@@ -2615,7 +2615,7 @@
       <TextBlock id="77da7805:19a030fbbe2:-7fb2" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=20" value="Gd(s)">
         <mxGeometry as="geometry" x="660.0" y="100.0" width="80.0" height="40.0"/>
       </TextBlock>
-      <TextBlock id="77da7805:19a030fbbe2:-7f71" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=13" value="Sinal degrau definido para t =1.&lt;br&gt;Controlador otimizado para mudan&amp;#231;a em DV.&lt;br&gt;&lt;br&gt;&lt;br&gt;Em t = 0:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 0&lt;br&gt;&lt;br&gt;Em t=1:&lt;br&gt;- SP = 1&lt;br&gt;- DV = 0">
+      <TextBlock id="77da7805:19a030fbbe2:-7f71" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=13" value="Sinal degrau definido para t =1.&lt;br&gt;Controlador otimizado para mudan&amp;#231;a em SP.&lt;br&gt;&lt;br&gt;&lt;br&gt;Em t = 0:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 0&lt;br&gt;&lt;br&gt;Em t=1:&lt;br&gt;- SP = 1&lt;br&gt;- DV = 0">
         <mxGeometry as="geometry" x="20.0" y="20.0" width="290.0" height="190.0"/>
       </TextBlock>
       <TextBlock id="7a94e6ed:19a09d9e2c9:-7fa3" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=20" value="Gp(s)">
@@ -2639,7 +2639,7 @@
       <TextBlock id="7a94e6ed:19a09d9e2c9:-7f9d" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=20" value="Gd(s)">
         <mxGeometry as="geometry" x="650.0" y="610.0" width="80.0" height="40.0"/>
       </TextBlock>
-      <TextBlock id="7a94e6ed:19a09d9e2c9:-7f9c" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=13" value="Sinal degrau definido para t =1.&lt;br&gt;Controlador otimizado para mudan&amp;#231;a em SP.&lt;br&gt;&lt;br&gt;Em t = 0:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 0&lt;br&gt;&lt;br&gt;Em t=1:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 1">
+      <TextBlock id="7a94e6ed:19a09d9e2c9:-7f9c" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=13" value="Sinal degrau definido para t =1.&lt;br&gt;Controlador otimizado para mudan&amp;#231;a em DV.&lt;br&gt;&lt;br&gt;Em t = 0:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 0&lt;br&gt;&lt;br&gt;Em t=1:&lt;br&gt;- SP = 0&lt;br&gt;- DV = 1">
         <mxGeometry as="geometry" x="10.0" y="530.0" width="290.0" height="190.0"/>
       </TextBlock>
       <TextBlock id="-73d21121:19a10dec8dd:-7ff3" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f" value="SPACER">

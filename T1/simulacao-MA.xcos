@@ -1995,7 +1995,7 @@
         <mxGeometry as="geometry" x="590.0" y="850.0" width="80.0" height="40.0"/>
       </TextBlock>
       <TextBlock id="-44eaba3c:19a034821f1:-7ef7" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=15" value="MV(s)">
-        <mxGeometry as="geometry" x="380.0" y="890.0" width="50.0" height="40.0"/>
+        <mxGeometry as="geometry" x="390.0" y="900.0" width="50.0" height="30.0"/>
       </TextBlock>
       <TextBlock id="-44eaba3c:19a034821f1:-7ef6" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=15" value="DV(s)">
         <mxGeometry as="geometry" x="400.0" y="770.0" width="50.0" height="30.0"/>
@@ -2004,7 +2004,7 @@
         <mxGeometry as="geometry" x="960.0" y="880.0" width="50.0" height="30.0"/>
       </TextBlock>
       <TextBlock id="-44eaba3c:19a034821f1:-7ef4" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=15" value="SP(s)">
-        <mxGeometry as="geometry" x="310.0" y="890.0" width="50.0" height="30.0"/>
+        <mxGeometry as="geometry" x="310.0" y="900.0" width="50.0" height="30.0"/>
       </TextBlock>
       <TextBlock id="-44eaba3c:19a034821f1:-7ef3" parent="0:2:0" interfaceFunctionName="TEXT_f" style="TEXT_f;fontSize=20" value="Gd(s)">
         <mxGeometry as="geometry" x="590.0" y="680.0" width="80.0" height="40.0"/>
