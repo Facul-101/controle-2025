@@ -20,5 +20,5 @@ mprintf("GM:  %f\n", GM)
 mprintf("PM:  %f rads/s\n", PM)
 mprintf("FO:  %f\n", FO(Kc, tau_i))
 
-plot_graph(Kc_bounds, tau_i_bounds)
-bode(Gol, 'rad');
+// plot_graph(Kc_bounds, tau_i_bounds)
+// bode(Gol, 'rad');
